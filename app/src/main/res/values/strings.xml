@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InternetTest</string>
+    <string name="get_via_http">Get via HTTP</string>
+    <string name="get_via_okhttp">Get via OkHTTP</string>
+</resources>
